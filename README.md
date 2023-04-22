@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan Camilo
+
+## Software Engineer
+
+- 🎆 Check out my portfolio at (juancamiloqhz.com)[https://juancamiloqhz.com]
 
 <!--
 **juancamiloqhz/juancamiloqhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
