@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Juan Camilo
+### 👋 Hi there, I'm Juan
 
 ## Software Engineer
 
