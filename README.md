@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Juan
 
-## Software Engineer
+## Full Stack Software Engineer
 
 - 🎆 Check out my portfolio at [juancamiloqhz.com](https://juancamiloqhz.com)
 
