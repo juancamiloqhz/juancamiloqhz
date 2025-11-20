@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Juan Camilo
 
-### Senior Software Engineer | Former CTO & Co-Founder | Frontend Engineering Leader
+### Senior Software Engineer | Former CTO & Co-Founder | React & React Native Expert
 
-I'm a senior software engineer with **10 years of experience** spanning freelance development, startup founding as CTO, and technical leadership. I specialize in building high-performance web applications with **React**, **React Native**, and **TypeScript**, while bringing strategic thinking and leadership from my CTO background.
+I'm a senior software engineer with **10 years of experience** spanning freelance development, startup founding as CTO, and technical leadership. I specialize in building high-performance web and mobile applications with **React**, **React Native**, and **TypeScript**, while bringing strategic thinking and leadership from my CTO background.
+
+Currently building cross-platform mobile apps with **React Native + Supabase** for clients while leading frontend engineering at YellowBird.
 
 ## 🚀 About Me
 
-- 🏢 Currently leading frontend engineering at YellowBird
+- 📱 Currently building **full-stack mobile apps** with React Native + Supabase for clients
+- 🏢 Leading **frontend engineering** at YellowBird (React/TypeScript team)
 - 👨‍💼 Former **CTO & Co-Founder** of a real estate tech startup (built team from 0 to X engineers)
-- 💻 **10 years** building web applications across multiple domains
-- 🎯 Expert in **React, React Native, TypeScript, JavaScript** and modern frontend architecture
+- 💻 **10 years** building web and mobile applications across multiple domains
+- 🎯 Expert in **React** (web & mobile), **React Native**, **TypeScript**, and full-stack architecture
+- 🗄️ Proficient with **Supabase** (PostgreSQL, Auth, Realtime, Storage)
 - 👥 Experienced in **building and leading engineering teams**
 - 🌍 Remote work specialist & international collaborator
 - 📚 Passionate about mentoring engineers and building great products
@@ -20,7 +24,8 @@ I'm a senior software engineer with **10 years of experience** spanning freelanc
 graph LR
     A[Freelance Developer<br/>4 years] --> B[CTO & Co-Founder<br/>3 years]
     B --> C[Frontend Team Lead<br/>2.5 years]
-    C --> D[Next Challenge]
+    C --> D[Independent Mobile Dev<br/>Current]
+    D --> E[Next Challenge]
 ```
 
 ### 🎯 Freelance Developer (2015-2019)
@@ -46,6 +51,15 @@ Leading frontend engineering at YellowBird:
 - Improved performance, established best practices, mentoring team members
 - Hands-on coding while providing technical leadership
 
+### 📱 Independent Mobile Developer (2023-Present)
+
+Building full-stack mobile applications concurrently:
+
+- Creating cross-platform apps with React Native (Expo)
+- Architecting backends with Supabase (PostgreSQL, Auth, Realtime, Storage)
+- Delivering complete solutions from database design to mobile UI
+- Maintaining cutting-edge full-stack and mobile development skills
+
 ## 🛠️ Technical Skills
 
 ### Expert Level
@@ -67,11 +81,13 @@ Leading frontend engineering at YellowBird:
 
 ### Specialties
 
-- 🏗️ Frontend Architecture & System Design
-- ⚡ Performance Optimization
+- 🏗️ Frontend & Mobile Architecture
+- 📱 Cross-Platform Mobile Development (iOS + Android from single codebase)
+- 🗄️ Full-Stack Development (React Native + Supabase)
+- ⚡ Performance Optimization (Web & Mobile)
 - 👥 Technical Leadership & Team Building
 - 🔧 Developer Experience & Tooling
-- 📱 Responsive & Accessible Web Apps
+- 🌐 Responsive & Accessible Applications
 - 🧪 Testing & Quality Assurance
 
 ## 🎓 What Makes Me Different
@@ -79,8 +95,10 @@ Leading frontend engineering at YellowBird:
 Most senior engineers have deep technical skills. I bring that **plus**:
 
 - **CTO Experience**: Strategic thinking about technical decisions from a business perspective
+- **Active Full-Stack**: Not just past experience - currently building React Native + Supabase apps
+- **Web + Mobile**: React for web, React Native for mobile - complete cross-platform capability
 - **Proven Leadership**: Built engineering teams and culture from scratch
-- **Full Context**: Understand the full stack and can work effectively across boundaries
+- **Full Context**: Understand the entire stack from database to mobile UI
 - **Battle-Tested**: Navigated startups, scaling challenges, and leading teams through uncertainty
 
 ## 🌟 Key Strengths
@@ -88,9 +106,10 @@ Most senior engineers have deep technical skills. I bring that **plus**:
 ```typescript
 const myStrengths = {
   technical: {
-    frontend: ['React', 'TypeScript', 'Performance Optimization'],
-    architecture: ['System Design', 'Scalability', 'Best Practices'],
-    fullStack: ['Node.js', 'APIs', 'Databases']
+    frontend: ['React (Web & Native)', 'TypeScript', 'Performance Optimization'],
+    mobile: ['React Native', 'Expo', 'Cross-Platform Development', 'iOS & Android'],
+    backend: ['Supabase', 'PostgreSQL', 'Authentication', 'Real-time Systems'],
+    architecture: ['System Design', 'Scalability', 'Full-Stack Architecture', 'Best Practices']
   },
   leadership: {
     teamBuilding: ['Hiring', 'Mentoring', 'Culture Building'],
@@ -100,7 +119,8 @@ const myStrengths = {
   mindset: {
     balance: 'Business needs + Technical excellence',
     ownership: 'Full responsibility for outcomes',
-    growth: 'Continuous learning and team development'
+    growth: 'Continuous learning and team development',
+    versatility: 'Web, Mobile, Backend - complete solutions'
   }
 };
 
@@ -115,14 +135,17 @@ export default myStrengths;
 
 ## 🔭 What I'm Looking For
 
-I'm currently exploring opportunities as a **Senior Frontend Engineer**, **Senior Full-Stack Engineer**, or **Lead Engineer** where I can contribute both technical excellence and strategic thinking.
+I'm currently exploring opportunities as a **Senior Frontend Engineer**, **Senior Full-Stack Engineer**, **Senior React Native Developer**, or **Lead Engineer** where I can contribute both technical excellence and strategic thinking.
+
+With expertise across web (React), mobile (React Native), and backend (Supabase/PostgreSQL), I can deliver value across the full stack.
 
 **Ideal Environment**:
 
 - 🌍 Remote-first company with strong engineering culture
-- 🚀 Products that solve real problems
+- 🚀 Products that solve real problems (web, mobile, or both)
 - 🎯 Teams that value both shipping and quality
-- 📈 Opportunities for growth and H1B sponsorship (future relocation to US)
+- 💡 Opportunities to work across web and mobile platforms
+- 📈 Growth potential and H1B sponsorship (future relocation to US)
 
 ## 📫 Let's Connect
 
@@ -136,10 +159,13 @@ I'm currently exploring opportunities as a **Senior Frontend Engineer**, **Senio
 ### 💡 Fun Facts
 
 - 🎯 I've been coding since 2015 and still love it
-- 🏗️ Built a startup from 0 to production with thousands of users
-- 📚 Always learning - recently diving deeper into Web Performance and Accessibility
+- 🏗️ Built a startup from 0 to production with thousands of users as CTO
+- 📱 Currently building mobile apps - love that React Native lets me use React everywhere
+- 🗄️ Exploring modern backend approaches with Supabase (PostgreSQL + Auth + Realtime)
+- 📚 Always learning - recently diving deeper into Mobile Development and Web Performance
 - 🤝 Love mentoring engineers and seeing them grow
 - 🌎 Work with distributed teams across multiple time zones
+- 💼 Balancing full-time leadership with hands-on client work - best of both worlds
 
 ---
 
