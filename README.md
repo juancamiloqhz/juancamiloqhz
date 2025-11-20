@@ -10,7 +10,7 @@ Currently building cross-platform mobile apps with **React Native + Supabase** f
 
 - 📱 Currently building **full-stack mobile apps** with React Native + Supabase for clients
 - 🏢 Leading **frontend engineering** at YellowBird (React/TypeScript team)
-- 👨‍💼 Former **CTO & Co-Founder** of a real estate tech startup (built team from 0 to X engineers)
+- 👨‍💼 Former **CTO & Co-Founder** of a real estate tech startup (built team from 0 to 10 engineers)
 - 💻 **10 years** building web and mobile applications across multiple domains
 - 🎯 Expert in **React** (web & mobile), **React Native**, **TypeScript**, and full-stack architecture
 - 🗄️ Proficient with **Supabase** (PostgreSQL, Auth, Realtime, Storage)
