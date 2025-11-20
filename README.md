@@ -127,11 +127,35 @@ const myStrengths = {
 export default myStrengths;
 ```
 
-## 📊 GitHub Stats
+## 📊 Experience Highlights
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancamiloqhz&show_icons=true&theme=dark&hide_border=true)
+```typescript
+const experienceSummary = {
+  yearsOfExperience: 10,
+  currentFocus: ['React Native', 'React', 'TypeScript', 'Supabase'],
+  currentRoles: {
+    leadership: 'Frontend Team Lead @ YellowBird',
+    independent: 'Building React Native + Supabase apps for clients'
+  },
+  highlights: {
+    teamBuilt: 'X engineers (as CTO)',
+    projectsDelivered: '50+ across freelance and full-time roles',
+    techStack: {
+      frontend: ['React', 'React Native', 'TypeScript', 'JavaScript'],
+      backend: ['Supabase', 'PostgreSQL', 'Node.js'],
+      mobile: ['Expo', 'iOS', 'Android']
+    }
+  },
+  achievements: [
+    'Built startup from 0 to production as CTO',
+    'Leading frontend team at fast-growing startup',
+    'Currently shipping mobile apps for clients',
+    '10 years of continuous learning and growth'
+  ]
+};
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancamiloqhz&layout=compact&theme=dark&hide_border=true)
+**Note**: Most of my work is in private repositories (client work, YellowBird, startup). [Portfolio available upon request]
 
 ## 🔭 What I'm Looking For
 
