@@ -156,6 +156,7 @@ const experienceSummary = {
     '10 years of continuous learning and growth'
   ]
 };
+export default experienceSummary;
 ```
 
 **Note**: Most of my work is in private repositories (client work, YellowBird, startup). [Portfolio available upon request]
