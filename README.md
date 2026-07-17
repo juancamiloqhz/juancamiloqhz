@@ -1,32 +1,37 @@
 # Juan Camilo Quintero
 
-**Senior Software Engineer | Technical Leader | Former CTO**
+**Senior software engineer building reliable product systems across backend, web, and mobile.**
 
-I am a senior software engineer and technical leader with more than 12 years of experience building backend, web, mobile, and cloud systems. I work across TypeScript, Node.js, React, React Native, system design, and full-stack product development, with recent depth in payment and settlement workflows.
+I currently spend most of my engineering time on payment and settlement workflows: high-volume TypeScript services, merchant reporting, observability, and migration from on-premises infrastructure to AWS.
 
-I currently work through Solvedex on the New Product Development team at Talus Pay. I design high-volume payout microservices for charges, refunds, and chargebacks; help migrate services from on-premises Windows infrastructure to AWS; and own full-stack merchant reporting.
+My background also includes frontend architecture, React and React Native product development, leading a team of seven engineers, and serving as CTO of a startup. I enjoy work where product judgment, system design, and hands-on implementation need to come together.
 
-Previously, I led seven software engineers on the YellowBird engagement, combining architecture direction, code review, mentoring, planning, and hands-on delivery. Earlier, I co-founded Vibra Real Estate and served as CTO, owning technical strategy, architecture, team building, and full-stack product development.
+## Current Focus
 
-## Core Expertise
+- High-volume payment, payout, refund, and chargeback services
+- Full-stack reporting products for complex merchant data
+- Cloud migration, automated testing, observability, and operational reliability
+- Architecture, code review, mentoring, and clear engineering standards
 
-- **Architecture and systems:** System design, microservices, API design, data modeling, high-volume transaction processing, payment and settlement workflows
-- **Product engineering:** TypeScript, JavaScript, Node.js, React, Next.js, React Native, Expo, REST, GraphQL
-- **Data, cloud, and reliability:** PostgreSQL, MSSQL, TypeORM, OpenSearch, AWS Fargate and EC2, automated testing, observability, CI/CD
-- **Technical leadership:** Architecture decisions, engineering standards, code review, mentoring, team leadership, and cross-functional delivery
+## Engineering Approach
+
+- Start with the product need, constraints, and failure modes before choosing an architecture.
+- Build services and interfaces that are testable, observable, and understandable by the next engineer.
+- Keep technical leadership close to the code and make tradeoffs explicit.
+- Prefer durable systems and focused delivery over unnecessary complexity.
+
+## Tools I Reach For
+
+`TypeScript`, `Node.js`, `React`, `Next.js`, `React Native`, `PostgreSQL`, `MSSQL`, `AWS`
 
 ## Selected Public Work
 
-Most of my production work is in private employer and client repositories. These public repositories show smaller examples of my engineering practices:
+Most of my production work lives in private company repositories. A couple of public examples:
 
 - [dotfiles](https://github.com/juancamiloqhz/dotfiles) - macOS environment automation, shell configuration, backup workflows, and repeatable machine setup
 - [nest-challenge](https://github.com/juancamiloqhz/nest-challenge) - a NestJS and PostgreSQL API with JWT authentication, Prisma, and end-to-end test suites
 
-## Current Focus
-
-I am interested in senior software engineering and hands-on technical leadership roles with remote-first product companies that can engage me legally while I work from Colombia.
-
-## Contact
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/juancamiloqhz)
 - [Email](mailto:juancamiloqhz@gmail.com)
